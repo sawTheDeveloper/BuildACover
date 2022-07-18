@@ -4,3 +4,16 @@
     width: 40px;
     height: 40px;
 }
+
+
+/* Over image effect */
+
+.parent {
+    position: relative;
+}
+
+.over-img {
+    position: absolute;
+    top: 0%;
+    left: 2%;
+}
