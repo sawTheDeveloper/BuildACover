@@ -1,4 +1,4 @@
-//Drag and Drop Algorithm
+//Drag and Drop App
 let currentDroppable = null;
 text.onmousedown = function(event) {
     let shiftX = event.clientX - text.getBoundingClientRect()
