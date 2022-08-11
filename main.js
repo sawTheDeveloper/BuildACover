@@ -50,3 +50,32 @@ function leaveDroppable(elem) {
 text.ondragstart = function() {
     return false;
 };
+
+const Overlays = new Array();
+
+Overlays[0] = new Image();
+Overlays[0].src = './BuildACover/svgs/s.jpeg';
+
+Overlays[1] = new Image();
+Overlays[1].src = './BuildACover/svgs/s5.jpeg';
+
+Overlays[2] = new Image();
+Overlays[2].src = './BuildACover/svgs/s3.png';
+
+Overlays[3] = new Image();
+Overlays[3].src = './BuildACover/svgs/s4.png';
+
+Overlays[3] = new Image();
+Overlays[3].src = './BuildACover/svgs/s1.JPE';
+
+Overlays[4] = new Image();
+Overlays[4].src = './BuildACover/svgs/s6.jpeg';
+
+Overlays[5] = new Image();
+Overlays[5].src = './BuildACover/svgs/s7.png';
+
+Overlays[6] = new Image();
+Overlays[6].src = './BuildACover/svgs/s8.jpeg';
+
+Overlays[7] = new Image();
+Overlays[7].src = './BuildACover/svgs/s9.jpeg';
